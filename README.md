@@ -1,12 +1,8 @@
 # Introduction
 
-* * *
-
 This is a simple python spider.
 
 # Configuration
-
-* * *
 
 ## Python environment
 
@@ -14,7 +10,7 @@ Don't support python 3  :(
 
 ## Dependency
 
-- (BeautifulSoup4)[http://www.crummy.com/software/BeautifulSoup/]
+(BeautifulSoup4)[http://www.crummy.com/software/BeautifulSoup/]
 
     sudo su
 	yum install pip
@@ -24,4 +20,4 @@ Don't support python 3  :(
 
 Please refer to my blog
 
-- (Python Note (6) - 简单的单线程爬虫实现)[http://jesusjzp.github.io/blog/2013/08/22/python-module/]
+(Python Note - 简单的单线程爬虫实现)[http://jesusjzp.github.io/blog/2013/08/22/python-module/]
